@@ -17,7 +17,7 @@ Installing
 
 Install and update using `pip`_:
 .. code-block:: text
-   pip install -U Flask
+		pip install -U Flask
 
 
 A Simple Example
